@@ -1,0 +1,256 @@
+<doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>sarkari naurari</title></head>
+<style>
+*{margin:0px;padding:0px;}
+body{background-image: linear-gradient(to right, skyblue,skyblue);}
+#container {margin:0px auto;padding:20px 0px;background:blue;text-align:center;
+color:white; border:2px solid black; font-size:35px;font-weight:bold;text-transform:uppercase;}
+
+.nav ul {background:black;font-family:arial, helvetica, sans-serif;
+list-style:none;height:36px;line-height:36px;margin:0px;padding:0px;}
+.nav ul li{float:left;border-left:3px solid blue;}
+.nav ul li a {font-size:25px;display:block;padding:0px 28px;
+color:white;text-decoration:none;font-weight:bold;text-transform:uppercase;}
+.nav ul li a:hover {background:blue;} 
+marquee a{font-weight:bold;}
+.facebook {font-weight: bold;background-color:#247BA0;
+color:white;padding:10px;text-transform:uppercase;}
+.facebook:hover{background:#001a66;}
+.title{background:blue;height:40px;padding:5px;margin:0px;display:block;
+text-align:center;text-align:center;font-size:30px;color:white;text-transform:uppercase;}
+.title:hover{background:#000099;}
+
+
+.outer{padding:10px 30px;height:200px;background:yellow;}
+.inner{margin:10px 50px;}
+.toppost1{float:left;background:#1d6651;border:2px solid black;
+padding:10px;margin:10px;height:45px;width:250px;}
+.toppost1:hover{background-color:#0000FF;}
+.toppost2{float:left;background:#2e277a;border:2px solid black;
+padding:10px;margin:10px;height:45px;width:250px;}
+.toppost2:hover{background-color:#0000FF;}
+.toppost3{float:left;background:#4f1366;border:2px solid black;
+padding:10px;margin:10px;height:45px;width:250px;}
+.toppost3:hover{background-color:#0000FF;}
+.toppost4{float:left;background:#6e1731;border:2px solid black;
+padding:10px;margin:10px;height:45px;width:250px;}
+.toppost4:hover{background-color:#0000FF;}
+.toppost5{float:left;background:#8a875b;border:2px solid black;
+padding:10px;margin:10px;height:45px;width:250px;}
+.toppost5:hover{background-color:#0000FF;}
+.toppost6{float:left;background:#35472f;border:2px solid black;
+padding:10px;margin:10px;height:45px;width:250px;}
+.toppost6:hover{background-color:#0000FF;}
+.toppost7{float:left;background:#263321;border:2px solid black;
+padding:10px;margin:10px;height:45px;width:250px;}
+.toppost7:hover{background-color:#0000FF;}
+.toppost8{float:left;background:#163837;border:2px solid black;
+padding:10px;margin:10px;height:45px;width:250px;}
+.toppost8:hover{background-color:#0000FF;}
+.color{color:white;font-weight:bold;text-transform:uppercase;}
+
+.nav1{background:pink;border:20px solid blue;}
+.middle{border:5px solid red;height:1190px;}
+.box {border:2px solid black;float:left;
+margin:10px 42px;font-size:20px;}
+.box ul {padding:0 30px;}
+.oscroll{height:500px;width:295;overflow:auto;}
+.box ul li{margin:10px;}
+.b-post{border:2px solid black;margin:10px 20px; }
+
+.footer1{text-align:center;}
+.footer1 h1{font-size:25px;text-transform:uppercase;text-align:center;
+background:blue;color:white;text-transform:uppercase;padding:2px;font-size:35px;}
+.footer1 p{background:red;padding:10px 200px;font-size:25px;}
+
+@media screen and (max-width:1200px){
+#container {font-size:20px;}
+.nav ul li a {font-size:14px;padding:0 5px}
+.oscroll{width:320px;}
+.box ul li{margin:10px;}
+
+
+.outer{padding:10px 0px;}
+.inner{margin:10px 10px;display:grid;place-items:center; }
+.toppost1{width:400;text-align:center;padding:20px 10px;height:20;}
+.toppost2{width:400;text-align:center;padding:20px 10px;height:20;}
+.toppost3{width:400;text-align:center;padding:20px 10px;height:20;}
+.toppost4{width:400;text-align:center;padding:20px 10px;height:20;}
+.toppost5{width:400;text-align:center;padding:20px 10px;height:20;}
+.toppost6{width:400;text-align:center;padding:20px 10px;height:20;}
+.toppost7{width:400;text-align:center;padding:20px 10px;height:20;}
+.toppost8{width:400;text-align:center;padding:20px 10px;height:20;}
+}
+
+</style>
+
+<body>
+<div id="container">
+<h1>Sarkari naukari</h1>
+<h5>&copy;www.sarkarinaukari.com</h5>
+</div>
+
+<div class="nav">
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">Latest jobs</a></li>
+<li><a href="#">Admit card</a></li>
+<li><a href="#">Results</a></li>
+<li><a href="#">Admission</a></li>
+<li><a href="#">Dacuments</a></li>
+<li><a href="#">More</a></li>
+</ul>
+</div>
+
+
+<br>
+<marquee behavior="alternate" onmouseover="this.stop();" onmouseout="this.start();">
+<a href="https://joinindianarmy.nic.in/login.htm">Indian Army TES 44 Online Form 2020</a> || 
+<a href="https://ssc.nic.in/">SSC Delhi Constable Executive Online Form 2020</a> || 
+<a href="https://results.nios.ac.in/home/public-exam">NIOS Class 12th Result 2020</a> ||
+<a href="https://results.nios.ac.in/home/public-exam">NIOS Class 12th Result 2020</a> 
+</marquee>
+<marquee behavior="alternate" onmouseover="this.stop();" onmouseout="this.start();">
+<a href="http://nursingofficer.aiimsexams.org/?AspxAutoDetectCookieSupport=1">AIIMS Nursing Officer Online Form 2020</a> || 
+<a href="https://iimcat.ac.in/per/g01/pub/756/ASM/WebPortal/1/index.html?756@@1@@1">IIM CAT Online Form 2020 </a> || 
+<a href="https://upsconline.nic.in/mainmenu2.php">UPSC CDS II Online Form 2020</a> 
+</marquee>
+<marquee behavior="alternate" onmouseover="this.stop();" onmouseout="this.start();">
+<a href="https://ibps.in/">IBPS PO Online Form 2020</a> || 
+<a href="https://apprenticeshipindia.org/">Railway SECR Apprentice Online Form 2020 </a> || 
+<a href="http://uppsc.up.nic.in/AdmitCard.aspx">UPPSC BEO Admit Card 2020</a> 
+</marquee>
+<center><BR><br>
+<a href="https://www.facebook.com/saurabhyadavsangipur" class="facebook">Contact us on facebook</a><BR><br>
+</center>
+<div class="outer">
+	<div class="inner">
+		<div class="toppost1">	<a href="https://ssc.nic.in/" class="color">SSC CHSL 10+2 Recruitment 2020 Online</a></div>
+		<div class="toppost2">   <a href="https://ibpsonline.ibps.in/sbiposamar20/" class="color">State Bank of India SBI PO 2020 Online</a></div>
+		<div class="toppost3">	<a href="https://bit.ly/3l0AXKL" class="color">UPPSC Assistant Professor 2020 Online</a></div>
+		<div class="toppost4">	<a href="http://www.lkouniv.ac.in/en/article/bedadmission2020" class="color">Uttar Pradesh UP. BED Online 2020</a></div>
+		<div class="toppost5">	<a href="https://bit.ly/2KDIxOP" class="color">UPPSC Pre / ACF / RFO Mains Online Form 2020</a></div>
+		<div class="toppost6">	<a href="https://www.sbi.co.in/careers/ongoing-recruitment.html" class="color">State Bank of India SBI Apprentice 2020 Online </a></div>
+		<div class="toppost7">	<a href="https://scholarship.up.gov.in/index.aspx" class="color">UP Scholarship Pre, Post, Dashmottar Online 2020-21</a></div>
+		<div class="toppost8">	<a href="https://apply-csbc.com/V1/applicationIndex" class="color">Bihar Police CSBC Constable Recruitment 2020</a></div>
+	</div>
+</div>
+
+<div class="middle">
+<div class="box">
+<div class="title">Home</div>
+<ul class="oscroll">
+	<li><a href="https://apprenticeshipindia.org/" class="post">Railway SECR Apprentice Online Form 2020</a></li>
+	<li><a href="https://joinindianarmy.nic.in/login.htm" class="post">Indian Army TES 44 Online Form</a></li>
+	<li><a href="https://www.nabard.org/" class="post">NABARD Specialist Consultant Online Form 2020</a></li>
+	<li><a href="http://nursingofficer.aiimsexams.org/?AspxAutoDetectCookieSupport=1" class="post">AIIMS Nursing Officer NORCET Online Form 2020</a></li>
+	<li><a href="http://onlinebpsc.bihar.gov.in/main/home" class="post">BPSC Principal Engineering College Online Form 2020</a></li>
+	<li><a href="https://ibpsonline.ibps.in/rbisbmsmar20/" class="post">RBI Various Post Online Form 2020 </a></li>
+	<li><a href="https://sso.rajasthan.gov.in/signin" class="post">RSMSSB ECG Technician Online Form 2020</a></li>
+	<li><a href="http://onlinebpsc.bihar.gov.in/main/home" class="post">BPSC Lecturer Online Form 2020</a></li>
+	<li><a href="http://onlinebpsc.bihar.gov.in/main/home" class="post">BPSC Principal Online Form 2020</a></li>
+	<li><a href="https://upsconline.nic.in/mainmenu2.php" class="post">UPSC CDS II Online Form 2020</a></li>
+	<li><a href="http://onlinebpsc.bihar.gov.in/main/home" class="post">BPSC HOD Polytechnic Online Form 2020</a></li>
+	<li><a href="https://ibps.in/" class="post">IBPS PO X Online Form 2020</a></li>
+	<li><a href="hhttps://cdn.digialm.com//EForms/configuredHtml/1258/63705/Registration.html" class="post">AAI Junior Executive Online Form 2020</a></li>
+	<li><a href="https://nclrectt.cmpdi.co.in/OurPeople/OnlineApplications/nclRect.php" class="post">NCL Technician, Supervisor Online Form 2020</a></li>
+	<li><a href="https://ssc.nic.in/" class="post">SSC Delhi Constable Online Form 2020</a></li>
+	<li><a href="http://ssc.nic.in/" class="post">SSC JHT 2019 Option Form</a></li>
+	<li><a href="http://103.203.137.249/rhcdriver/" class="post">Rajasthan High Court Chauffeur Online Form 2020</a></li>
+	<li><a href=https://joinindianarmy.nic.in/BRAVOUserLogin.htm" class="post">Indian Army GD Soldier Online Form 2020</a></li>
+	<li><a href=https://www.ongcindia.com/wps/wcm/connect/en/career/recruitment-notice/" class="post">ONGC Apprentice Online Form 2020</a></li>
+	<li><a href=https://bit.ly/312U7b4" class="post">Indian Army TGC 132 Online Form 2020</a></li>
+	<li><a href=http://upsc.gov.in/" class="post">UPSC CMS Online Form 2020</a></li>
+	<li><a href=https://uksssconline.in/Public/Index.aspx" class="post">UKSSSC Account Clerk Online Form 2020</a></li>
+	<li><a href=http://peb.mp.gov.in/e_default.html" class="post">MP Jail Prahari Online Form 2020</a></li></ul>
+</div>
+<div class="box">
+<div class="title">Latest jobs</div><ul class="oscroll">
+<li><a href="https://apprenticeshipindia.org/">Railway SECR Apprentice Online Form 2020</a></li>
+<li><a href="https://joinindianarmy.nic.in/login.htm">Indian Army TES 44 Online Form</a></li>
+<li><a href="https://www.nabard.org/">NABARD Specialist Consultant Online Form 2020</a></li>
+<li><a href="http://nursingofficer.aiimsexams.org/?AspxAutoDetectCookieSupport=1">AIIMS Nursing Officer NORCET Online Form 2020</a></li>
+<li><a href="http://onlinebpsc.bihar.gov.in/main/home">BPSC Principal Engineering College Online Form 2020</a></li>
+<li><a href="https://ibpsonline.ibps.in/rbisbmsmar20/">RBI Various Post Online Form 2020 </a></li>
+<li><a href="https://sso.rajasthan.gov.in/signin">RSMSSB ECG Technician Online Form 2020</a></li>
+<li><a href="http://onlinebpsc.bihar.gov.in/main/home">BPSC Lecturer Online Form 2020</a></li>
+<li><a href="http://onlinebpsc.bihar.gov.in/main/home">BPSC Principal Online Form 2020</a></li>
+<li><a href="https://upsconline.nic.in/mainmenu2.php">UPSC CDS II Online Form 2020</a></li>
+<li><a href="http://onlinebpsc.bihar.gov.in/main/home">BPSC HOD Polytechnic Online Form 2020</a></li>
+<li><a href="https://ibps.in/">IBPS PO X Online Form 2020</a></li>
+<li><a href="hhttps://cdn.digialm.com//EForms/configuredHtml/1258/63705/Registration.html">AAI Junior Executive Online Form 2020</a></li>
+<li><a href="https://nclrectt.cmpdi.co.in/OurPeople/OnlineApplications/nclRect.php">NCL Technician, Supervisor Online Form 2020</a></li>
+<li><a href="https://ssc.nic.in/">SSC Delhi Constable Online Form 2020</a></li>
+<li><a href="http://ssc.nic.in/">SSC JHT 2019 Option Form</a></li>
+<li><a href="http://103.203.137.249/rhcdriver/">Rajasthan High Court Chauffeur Online Form 2020</a></li>
+<li><a href=https://joinindianarmy.nic.in/BRAVOUserLogin.htm">Indian Army GD Soldier Online Form 2020</a></li>
+<li><a href=https://www.ongcindia.com/wps/wcm/connect/en/career/recruitment-notice/">ONGC Apprentice Online Form 2020</a></li>
+<li><a href=https://bit.ly/312U7b4">Indian Army TGC 132 Online Form 2020</a></li>
+<li><a href=http://upsc.gov.in/">UPSC CMS Online Form 2020</a></li>
+<li><a href=https://uksssconline.in/Public/Index.aspx">UKSSSC Account Clerk Online Form 2020</a></li>
+<li><a href=http://peb.mp.gov.in/e_default.html">MP Jail Prahari Online Form 2020</a></li></ul></div>
+
+<div class="box"><div class="title">Admit card</div><ul class="oscroll">
+<li><a href="https://cdn3.digialm.com/EForms/configuredHtml/2641/63251/login.html">Jaipur Metro Various Post Recruitment 2019 </a></li>
+<li><a href="http://upsssc.gov.in/Default.aspx">UPSSSC Combined Lower Second 2016 Interview Letter with Schedule 2020</a></li>
+<li><a href="https://upvpsrecruitment.org/admitcards/">UP Vidhan Sabha Sachivalaya Various Post Admit Card 2020</a></li>
+<li><a href="https://apply-bpssc.com/ESIAdmitcard/applicationIndex">Bihar Police Enforcement Sub Inspector ESI Admit Card 2020</a></li>
+<li><a href="http://ssc-cr.org/const_exe_male_female_delhi_police_2020_1642.php?proceed=yes">SSC Delhi Police Executive Constable Admit Card 2020</a></li>
+<li><a href="https://ibpsonline.ibps.in/rbiasstnov19/clomea_nov20/login.php?appid=3cb360cdbd10dbb8b3b80427f9603e0e">RBI Office Assistant Mains Phase II Admit Card 2020</a></li>
+<li><a href="http://upsssc.gov.in/Default.aspx">UPSSSC Vikas Dal Adhikari, Exercise Trainer Recruitment 2018 PET Exam Dates 2020</a></li>
+<li><a href="https://apply-csbc.com/mspetadmitcard/applicationIndex">Bihar Police Squad Constable PET Admit Card 2020</a></li>
+<li><a href="http://apply-csbc.com/hgpetadmitcard">Bihar Police Home Guard Driver PET Exam Admit Card 2020</a></li>
+<li><a href="#">more post</a></li>
+</ul></div>
+<div class="box"><div class="title">Results</div><ul class="oscroll">
+<li><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/ROLL_F_13112020.pdf">SSC Junior Hindi Translator JHT, Pradhyapak 2019 Final Result 2020.</a></li>
+<li><a href="https://rpsc.rajasthan.gov.in/advertisements">Rajasthan PRO Recruitment 2019 Final Result</a></li>
+<li><a href="https://upsc.gov.in/sites/default/files/WR-CMSE-20-Engl-12112020.pdf">UPSC CMS Written Exam Result 2020</a></li>
+<li><a href="https://www.nabard.org/careers-notices1.aspx?cid=693&id=26">Nabard Grade A Assistant Manager Mains Phase II Result 2020</a></li>
+<li><a href="https://upneet.gov.in/oncampusresult/result.aspx">UP NEET UG Online Counseling Registration, Choice Filling, Allotment Result 2020</a></li>
+<li><a href="https://rsmssb.rajasthan.gov.in/Static/files/NTT_2018_Recomm_Finally_Selec.pdf">RSMSSB NTT Teacher 2018 Final Result</a></li>
+<li><a href="http://upsssc.gov.in/ResultsDire.aspx">UPSSSC Mandi Parishad Various Post Result 2020</a></li>
+<li><a href="https://upsc.gov.in/sites/default/files/MksRcdCndts-CDSII_2019.pdf">UPSC Combined Defence Service CDS II Recruitment 2019 Final Result with Score Card 2020</a></li>
+<li><a href="#">more post</a></li>
+</ul></div>
+<div class="box"><div class="title">Answer key</div><ul class="oscroll">
+<li><a href="https://cdn.digialm.com/EForms/configuredHtml/1258/65047/login.html">Delhi DDA Various Post Answer Key 2020</a></li>
+<li><a href="http://mppeb_pat.onlineregistrationform.org:8850/ObjectionTrackerPortalWeb/loginPage.jsp">MP PEB PAT Answer Key with Objection Link 2020</a></li>
+<li><a href="http://www.psc.cg.gov.in/pdf/Model_Answer/MA_CJ_2020_12112020.pdf">CGPSC Civil Judge 2020 Pre Answer Key</a></li>
+<li><a href="https://cdn.digialm.com//EForms/configuredHtml/31144/68070/login.html">Rajasthan Police Constable Answer Key 2020</a></li>
+<li><a href="https://www.sarkariresult.com/mp/mppeb_dahet.onlineregistrationform.org:8840/ObjectionTrackerPortalWeb/loginPage.jsp">MP PEB DAHET Admission Test Answer Key / Objection Link 2020</a></li>
+<li><a href="http://mppeb_pvft.onlineregistrationform.org:8830/ObjectionTrackerPortalWeb/loginPage.jsp">MP PEB PVFT Admission Test Answer Key 2020</a></li>
+<li><a href="http://nclcil.in/HI/page.php?pid=34#collapse125c">NCL Paramedical Post Answer Key 2020</a></li>
+<li><a href="https://testservices.nic.in/examsys/DownloadAdmitCard/LoginDOB.aspx?appFormId=101052011">NTA UGC NET JRF November Exam 2020 Admit Card, Answer Key </a></li>
+<li><a href="#">more post</a></li>
+</ul></div>
+<div class="box"><div class="title">Admission</div><ul class="oscroll">
+<li><a href="https://upneet.gov.in/">UP NEET UG Online Counseling Registration</a></li>
+<li><a href="http://cbseitms.in/nvsregn/index.aspx">NVS Navodaya Vidyalaya Class 6 Online Form 2020</a></li>
+<li><a href="http://entdata.in/">Uttar Pradesh UP NTSE Scholarship Test Online Form 2020</a></li>
+<li><a href="http://allduniv.ac.in/">Allahabad University AU Admission</a></li>
+<li><a href="http://mcc.nic.in/">MCC NEET UG Online Counseling Registration</a></li>
+<li><a href="http://bhuonline.in/">	BHU UET Online Counselling 2020</a></li>
+<li><a href="http://bhuonline.in/index.html">BHU PET 2020 Online Counselling 2020</a></li>
+<li><a href="http://upsee.nic.in/publicinfo/public/home.aspx">UPSEE Admission Online Counselling 2020</a></li>
+</ul></div></div></div>
+<br><br/>
+
+<div class="footer1">
+	<h1>sarkari naukari</h1>
+	<p>All information about Sarkari naukari can be found on sarkarijbfiind.com. 
+	It is now easy to log into sarkarinaukari.com
+	and find out everything that you would want to know about most of the Government exams.</p>
+</div>
+<script>
+		//var name=prompt("enter your name");
+		//alert("welcome :-"+name);
+		//document.write("<center><h1>i am saurabh yadav</h1></center>")
+</script> 
+</body>
+</head>
+</html>
